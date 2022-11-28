@@ -5,7 +5,7 @@ public class javacode_Interview {
 	public static void main(String[] args) {
 		
 		
-		// 1. Adding natural numbers upto given digit
+		//  Adding natural numbers upto given digit
 		{  
 			int i, num = 10, sum = 0;  
 			//executes until the condition returns true  
@@ -20,7 +20,7 @@ public class javacode_Interview {
 		
 		
 	}
-		/*// 2. finding factorial
+		/*//  finding factorial
 		public void factorial(int a) {
 		int fact = 1;
 		for (int i = 1; i <= a; i++) {

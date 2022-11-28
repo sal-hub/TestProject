@@ -7,7 +7,7 @@ import java.util.Collections;
 public class MinNMax {
     public static void main(String[] args) {
     	
-    	 Integer[] num = { 2, 4, 7, 5, 9 };
+    	Integer num[] = { 2, 4, 7, 5, 9 };
     	
         int min = Collections.min(Arrays.asList(num));
   

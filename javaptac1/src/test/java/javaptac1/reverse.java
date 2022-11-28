@@ -5,7 +5,7 @@ public class reverse {
 	public static void main(String[] args) {
 		// Java program to reverse a number recursively
 		 
-		int number =  356237, reverse = 0;  
+		int number =  356789, reverse = 0;  
 		//we have not mentioned the initialization part of the for loop  
 		for( ;number != 0; number=number/10)   
 		{  
@@ -20,7 +20,7 @@ public class reverse {
 	
 		      
 		 
-		//Output: Reversed Number is 6254
+		//Output: Reversed Number is 987653
 
 	
 

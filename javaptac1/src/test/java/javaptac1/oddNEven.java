@@ -6,7 +6,7 @@ public class oddNEven {
 
 	public static void main(String[] args) {
 		
-			      int[] myArray = {23, 93, 56, 92, 39};
+			      int[] myArray = {23, 93, 56, 92, 39, 2, 4, 5};
 			      System.out.println("Even numbers in the given array are:: ");
 
 			      for (int i=0; i<myArray.length; i++){
