@@ -1,0 +1,10 @@
+package javalectutreNexttech;
+
+public class lec1datatype {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
