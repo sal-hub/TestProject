@@ -17,7 +17,10 @@ public class MinNMax {
          System.out.println("Minimum number: "+ min);
                             
          System.out.println("Maximum number: "+ max);
-                            
+        
+         
+         
+         
     }  
 
 }
